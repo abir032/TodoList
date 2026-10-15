@@ -1,4 +1,4 @@
-o//
+//
 //  AppDelegate.swift
 //  TodoList
 //
